@@ -1,4 +1,4 @@
-
+#import libraries
 from PIL import Image 
 import pytesseract 
 import sys 
